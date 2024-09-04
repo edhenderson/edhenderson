@@ -13,9 +13,9 @@ I am currently seeking a **full-time, permanent role** where I can lead technica
 
 ## 🚀 Tech Stack
 - **Languages**: JavaScript (ES6+), HTML5, CSS3, Sass
-- **Frameworks & Libraries**: React, Tailwind CSS, Alpine.js, Eleventy, Vite
+- **Frameworks & Libraries**: React, Tailwind CSS, Alpine.js, Eleventy, Vite, Next.js, Hugo
 - **Tools**: StoryBook, Figma, Playwright, Netlify, JAMstack
-- **CMS**: ButterCMS, Contentful (Certified Professional)
+- **CMS**: ButterCMS, Contentful (Certified Professional), CloudCannon
 
 ## 🎓 Education
 **BSc (Hons) Computer Science**, Heriot-Watt University, Edinburgh
@@ -25,7 +25,4 @@ You can find me **solving complex problems**, **teaching kids to code**, or shar
 
 ## 📫 Let's Connect
 - **Resume**: [View My Full Resume](https://resumeow.work/edhenderson/)
-- **LinkedIn**: [ed-henderson](https://www.linkedin.com/in/ed-henderson/)
-- **Email**: [ed@teamhendo.com](mailto:ed@teamhendo.com)
 
-Feel free to explore my repositories or reach out if you'd like to collaborate on exciting projects or have any questions! 
