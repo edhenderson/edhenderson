@@ -1,28 +1,40 @@
 # Ed Henderson
-## EXPERIENCED WEB DEVELOPER & FRONT END SPECIALIST
+## Senior Web & Front End Developer
 
-I’m an experienced **Front-End Developer** with over two decades of hands-on experience delivering high-performance, user-centric web applications. I’ve worked with agile teams across the globe, including the UK, North America, Asia, and Europe.
+I’m a senior web and front end developer with many years of hands-on experience building, fixing and shipping production web applications.
 
-I am currently seeking a **full-time, permanent role** where I can lead technical projects, mentor teams, and drive innovation. I thrive in dynamic environments, contributing to both **start-ups** and **Fortune 500 companies**.
+I specialise in working with existing codebases — untangling front end issues, finishing half-built features, improving performance and accessibility, and helping teams deliver reliably under real-world constraints. I’ve worked with teams across the UK, Europe, North America and Asia, across startups, scale-ups and large organisations.
 
-## 🌟 What I Do
-- **Front-End Development**: Expert in building high-performance, scalable, and maintainable web apps.
-- **Technical Leadership**: Skilled in leading development teams, architecture design, and project execution.
-- **Mentorship**: Passionate about helping developers grow and mentoring the next generation of engineers.
-- **Performance Optimisation**: I champion web standards and continuously aim to improve performance metrics and user experience.
+Alongside this, I also take on well-defined MVP builds, taking products from design through to production-ready first releases with a strong focus on maintainability and usability.
 
-## 🚀 Tech Stack
-- **Languages**: JavaScript (ES6+), HTML5, CSS3, Sass
-- **Frameworks & Libraries**: React, Tailwind CSS, Alpine.js, Eleventy, Vite, Next.js, Hugo
-- **Tools**: StoryBook, Figma, Playwright, Netlify, JAMstack
-- **CMS**: ButterCMS, Contentful (Certified Professional), CloudCannon
+---
+
+## 🔧 What I Do Best
+- Fixing and stabilising front end applications
+- Completing features against existing designs or specs
+- Performance, accessibility and Core Web Vitals improvements
+- Design systems and reusable component work
+- Translating Figma designs into clean, production-ready UI
+
+---
+
+## 🚀 Tech I Work With
+- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS, Sass
+- **Frameworks & Tools**: React, Next.js, Eleventy (11ty), Hugo, Vite, Tailwind CSS
+- **Workflow**: Storybook, Playwright, Netlify, JAMstack
+- **CMS**: Contentful (Certified), ButterCMS, CloudCannon
+
+---
 
 ## 🎓 Education
 **BSc (Hons) Computer Science**, Heriot-Watt University, Edinburgh
 
-## 🌱 When I'm Not Coding
-You can find me **solving complex problems**, **teaching kids to code**, or sharing knowledge at local schools. I’m also passionate about **rugby**, **basketball**, **paddleboarding**, and enjoying a good **video game**.
+---
 
-## 📫 Let's Connect
-- **Resume**: [View My Full Resume](https://resumeow.work/edhenderson/)
+## 🌱 Outside of Code
+When I’m not working, you’ll usually find me solving problems, helping kids get into coding, or doing something vaguely sporty — rugby, basketball, paddleboarding — followed by recovering with movies or games.
 
+---
+
+## 📫 More
+- **Résumé**: https://resumeow.work/edhenderson
