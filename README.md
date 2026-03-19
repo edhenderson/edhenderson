@@ -1,11 +1,11 @@
 # Ed Henderson
 ## Senior Web & Front End Developer
 
-I’m a senior web and front end developer with many years of hands-on experience building, fixing and shipping production web applications.
+27 years building for the web. I fix, finish and ship — dropping into existing codebases fast and delivering without the drama.
 
-I specialise in working with existing codebases — untangling front end issues, finishing half-built features, improving performance and accessibility, and helping teams deliver reliably under real-world constraints. I’ve worked with teams across the UK, Europe, North America and Asia, across startups, scale-ups and large organisations.
+I've built for the Mastercard Foundation, the United Nations, the UK Government, Zello and POPSUGAR. 100% Job Success on Upwork. Top Rated Plus.
 
-Alongside this, I also take on well-defined MVP builds, taking products from design through to production-ready first releases with a strong focus on maintainability and usability.
+I specialise in existing codebases — untangling front end issues, completing half-built features, improving performance and accessibility, and helping teams deliver under real-world constraints. I also take on well-defined MVP builds, from design through to production-ready first release.
 
 ---
 
@@ -20,7 +20,7 @@ Alongside this, I also take on well-defined MVP builds, taking products from des
 
 ## 🚀 Tech I Work With
 - **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS, Sass
-- **Frameworks & Tools**: React, Next.js, Eleventy (11ty), Hugo, Vite, Tailwind CSS
+- **Frameworks & Tools**: React, Eleventy (11ty), Hugo, Vite, Tailwind CSS
 - **Workflow**: Storybook, Playwright, Netlify, JAMstack
 - **CMS**: Contentful (Certified), ButterCMS, CloudCannon
 
@@ -31,10 +31,7 @@ Alongside this, I also take on well-defined MVP builds, taking products from des
 
 ---
 
-## 🌱 Outside of Code
-When I’m not working, you’ll usually find me solving problems, helping kids get into coding, or doing something vaguely sporty — rugby, basketball, paddleboarding — followed by recovering with movies or games.
-
----
-
-## 📫 More
+## 📫 Find Me
 - **Résumé**: https://resumeow.work/edhenderson
+- **Upwork**: https://www.upwork.com/freelancers/edhenderson7
+- **LinkedIn**: https://www.linkedin.com/in/edhenderson
