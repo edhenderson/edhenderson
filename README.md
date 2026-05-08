@@ -1,7 +1,7 @@
 # Ed Henderson
 ## Senior Web & Front End Developer
 
-27 years building for the web. I fix, finish and ship — dropping into existing codebases fast and delivering without the drama.
+27 years building for the web. I fix, finish and ship - dropping into existing codebases fast and delivering without the drama.
 
 I've built for the Mastercard Foundation, the United Nations, the UK Government, Zello and POPSUGAR. 100% Job Success on Upwork. Top Rated Plus.
 
