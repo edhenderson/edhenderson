@@ -1,48 +1,56 @@
 # Ed Henderson
-## Front End Engineer — Accessibility, Performance & Design Systems
 
-25 years building for the web. I fix, finish and ship — dropping into existing codebases fast and delivering without the drama.
+## Front End Engineer: Accessibility, Performance and Design Systems
 
-I've built for the UK Government (MHCLG), the United Nations (UNOPS), the Mastercard Foundation, Zello and POPSUGAR. 100% Job Success on Upwork, Top Rated Plus.
+I fix front ends that are broken, slow or behind. 25 years building for the web, usually brought into existing products to stabilise codebases, finish half-built features and help teams ship with confidence.
 
-I specialise in existing codebases — untangling front end issues, completing half-built features, improving performance and accessibility (WCAG 2.2, GOV.UK Service Standard), and helping teams deliver under real-world constraints.
+Recent work includes the UK Government's Ministry of Housing, Communities and Local Government, the United Nations Office for Project Services (UNOPS), the Mastercard Foundation and Zello. 100% Job Success on Upwork, Top Rated Plus.
 
-**Currently available for fractional and contract work, 15–20 hrs/week.**
-
----
-
-## 🔧 What I Do Best
-
-- Accessibility — WCAG 2.2, GOV.UK Service Standard, remediation and audit
-- Performance — Core Web Vitals, PageSpeed, load-time optimisation
-- Fixing and stabilising front end applications
-- Completing features against existing designs or specs
-- Design systems and reusable component work
-- Translating Figma designs into clean, production-ready UI
+**Available for remote contract and fractional work.** [View my contract CV](https://resumeow.work/edhenderson?mode=contractor).
 
 ---
 
-## 🚀 Tech I Work With
+## Recent results
 
-- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS, Sass
-- **Frameworks & Tools**: React, Next.js, Eleventy (11ty), Hugo, Astro, Vite, Tailwind CSS
-- **Workflow**: Storybook, Playwright, Netlify, JAMstack
-- **CMS**: Contentful (Certified), ButterCMS, CloudCannon
+- **Contentful and Next.js rescue:** audited a B2B SaaS marketing site ahead of a hard launch, shipped GDPR and CCPA-style cookie consent (Consent Mode v2, Google Tag Manager) and lifted its HTTP Observatory score from C- (45/100) to B (80/100)
+- **Performance:** raised Zello's PageSpeed Insights scores from below 50 to 95+ across three Eleventy and Tailwind CSS builds
+- **Accessibility:** Front End technical leadership for a UK Government AI housing initiative, building to WCAG and the GOV.UK Service Standard
+- **Modernisation:** led a Front End overhaul of data.unops.org, a twelve-year-old web application, with React, Vite, Storybook and Playwright
+- **Scale:** architected a white-label travel platform generating 120 guides across 40 destinations and three languages, used by AXA, Visa, Mastercard, MetLife and Chubb
 
 ---
 
-## 🎓 Education
+## What I do best
+
+- Accessibility: WCAG 2.2, GOV.UK Service Standard, audits and remediation
+- Performance: Core Web Vitals, PageSpeed and load-time optimisation
+- Fixing and stabilising existing Front End applications
+- Finishing features against existing designs or specs
+- Design systems and reusable components
+- Turning Figma designs into clean, production-ready UI
+- Well-defined MVP builds, from design through to first release
+
+---
+
+## Tech I work with
+
+- **Languages:** JavaScript, TypeScript, HTML, CSS and Sass
+- **Frameworks and tools:** React, Next.js, Eleventy, Hugo, Astro, Vite and Tailwind CSS
+- **Workflow:** Storybook, Playwright, Netlify and JAMstack
+- **CMS:** Contentful (certified), ButterCMS and CloudCannon
+
+---
+
+## Education
 
 **BSc (Hons) Computer Science**, Heriot-Watt University, Edinburgh
 
 ---
 
-## 📫 Find Me
+## Hire me
 
-- **Site**: https://edhenderson.com
-- **Résumé**: https://resumeow.work/edhenderson
-- **Hire me**: https://www.pangea.app/profile/ed-henderson
-- **LinkedIn**: https://www.linkedin.com/in/edhenderson
-- **Upwork**: https://www.upwork.com/freelancers/edhenderson7
-
-Also available for well-defined MVP builds, design through to first release.
+- **Contract CV:** https://resumeow.work/edhenderson?mode=contractor
+- **Upwork:** https://www.upwork.com/freelancers/edhenderson7
+- **LinkedIn:** https://www.linkedin.com/in/ed-henderson
+- **Pangea:** https://www.pangea.app/profile/ed-henderson
+- **Site:** https://edhenderson.com
